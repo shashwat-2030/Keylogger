@@ -1,0 +1,77 @@
+System Information:
+
+Hostname: Shubham
+Internal IP: 10.66.62.128
+External IP: 103.177.203.130
+Processor: AMD64 Family 23 Model 160 Stepping 0, AuthenticAMD
+OS: Windows
+OS Version: 10.0.26200
+Machine Name: AMD64
+CPU Count: 8
+CPU Frequency: 2801.0 MHz
+CPU Usage: 4.3%
+Total Memory: 13.83 GB
+Available Memory: 4.13 GB
+Used Memory: 9.70 GB
+Memory Usage: 70.1%
+Total Disk Space: 281.51 GB
+Used Disk Space: 0.35 GB
+Free Disk Space: 281.16 GB
+Disk Usage: 0.1%
+Boot Time: 2026-04-16 14:21:20
+Current Directory: d:\keyloggerPython-main
+
+Environment Path Variables and Other Details:
+
+ALLUSERSPROFILE: C:\ProgramData
+APPDATA: C:\Users\308sh\AppData\Roaming
+CHROME_CRASHPAD_PIPE_NAME: \\.\pipe\crashpad_23912_HMEHSTYTCKUTTNUS
+COMMONPROGRAMFILES: C:\Program Files\Common Files
+COMMONPROGRAMFILES(X86): C:\Program Files (x86)\Common Files
+COMMONPROGRAMW6432: C:\Program Files\Common Files
+COMPUTERNAME: SHUBHAM
+COMSPEC: C:\WINDOWS\system32\cmd.exe
+DRIVERDATA: C:\Windows\System32\Drivers\DriverData
+EFC_8260_1592913036: 1
+ELECTRON_RUN_AS_NODE: 1
+FPS_BROWSER_APP_PROFILE_STRING: Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING: Default
+HOMEDRIVE: C:
+HOMEPATH: \Users\308sh
+LOCALAPPDATA: C:\Users\308sh\AppData\Local
+LOGONSERVER: \\SHUBHAM
+NUMBER_OF_PROCESSORS: 8
+ONEDRIVE: C:\Users\308sh\OneDrive
+ONEDRIVECONSUMER: C:\Users\308sh\OneDrive
+OS: Windows_NT
+PATH: C:\Users\308sh\AppData\Roaming\Python\Python314\site-packages\cv2\../../x64/vc14/bin;C:\Users\308sh\AppData\Local\Programs\Microsoft VS Code;C:\Program Files\Python314\Scripts\;C:\Program Files\Python314\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-24\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\308sh\AppData\Local\Microsoft\WindowsApps;C:\Users\308sh\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\308sh\dev\flutter_windows_3.32.8-stable\flutter\bin;
+PATHEXT: .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+PROCESSOR_ARCHITECTURE: AMD64
+PROCESSOR_IDENTIFIER: AMD64 Family 23 Model 160 Stepping 0, AuthenticAMD
+PROCESSOR_LEVEL: 23
+PROCESSOR_REVISION: a000
+PROGRAMDATA: C:\ProgramData
+PROGRAMFILES: C:\Program Files
+PROGRAMFILES(X86): C:\Program Files (x86)
+PROGRAMW6432: C:\Program Files
+PROMPT: $P$G
+PSMODULEPATH: C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC: C:\Users\Public
+SESSIONNAME: Console
+SYSTEMDRIVE: C:
+SYSTEMROOT: C:\WINDOWS
+TEMP: C:\Users\308sh\AppData\Local\Temp
+TMP: C:\Users\308sh\AppData\Local\Temp
+USERDOMAIN: SHUBHAM
+USERDOMAIN_ROAMINGPROFILE: SHUBHAM
+USERNAME: 308sh
+USERPROFILE: C:\Users\308sh
+VSCODE_CODE_CACHE_PATH: C:\Users\308sh\AppData\Roaming\Code\CachedData\560a9dba96f961efea7b1612916f89e5d5d4d679
+VSCODE_CRASH_REPORTER_PROCESS_TYPE: extensionHost
+VSCODE_CWD: C:\Users\308sh\AppData\Local\Programs\Microsoft VS Code
+VSCODE_ESM_ENTRYPOINT: vs/workbench/api/node/extensionHostProcess
+VSCODE_HANDLES_UNCAUGHT_ERRORS: true
+VSCODE_IPC_HOOK: \\.\pipe\a5b1d15b-1.116.0-main-sock
+VSCODE_NLS_CONFIG: {"userLocale":"en-us","osLocale":"en-in","resolvedLanguage":"en","defaultMessagesFile":"C:\\Users\\308sh\\AppData\\Local\\Programs\\Microsoft VS Code\\560a9dba96\\resources\\app\\out\\nls.messages.json","locale":"en-us","availableLanguages":{}}
+VSCODE_PID: 23912
+WINDIR: C:\WINDOWS
